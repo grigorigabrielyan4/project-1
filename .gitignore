@@ -4,3 +4,7 @@
 .Ruserdata
 project-1.Rproj 
 quarto-1_files
+*Rproj
+*_files
+quarto-2.qmd
+quarto-2.html
